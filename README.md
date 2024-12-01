@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <span style="color: #3498db;">Taventix</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color: #3498db;">Maxi</span> 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/taventixxlabel=Followers&style=social" alt="GitHub Followers">
