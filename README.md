@@ -1,4 +1,3 @@
-<h1 align="center">Hi there, I'm <span style="color: #3498db;">Maxi</span> 👋</h1>
 ---
 <h1 align="center">Hi there, I'm Maxi 👋</h1>
 
