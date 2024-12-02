@@ -13,8 +13,7 @@
 
 ---
 
-## 💡 About Me
-
+## 💡 About Me 👨‍💻
 
 - 🌱 **Learning**: JavaScript, Backend Development  
 - 🛠️ **Building**: Discord Bots & Creative Web Projects  
@@ -59,5 +58,5 @@
 ---
 
 <p align="center">
-  🚀 **Let’s build something amazing together!** 💻
+  🚀 **Check out my projects and let’s build something amazing together!** 💻
 </p>
