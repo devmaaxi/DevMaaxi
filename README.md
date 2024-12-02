@@ -3,8 +3,8 @@
 <h1 align="center">Hi there, I'm Maxi 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/taventixx?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/taventixx?label=Stars&style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/followers/devmaaxi?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/devmaaxi?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 
 ## 💡 About Me
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE3N2E1NGZmMjBlZTcxYzcwM2JjNjU3MDNhYjRlY2EwNjgwMjc5ZiZjdD1n/8GLeO9K53XIMb8wsSx/giphy.gif" width="200" align="right" alt="Coding Animation">
 
 - 🌱 **Learning**: JavaScript, Backend Development  
 - 🛠️ **Building**: Discord Bots & Creative Web Projects  
@@ -37,8 +36,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taventixx&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taventixx&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=devmaaxi&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaaxi&theme=radical" alt="GitHub Streak" width="48%">
 </p>
 
 ---
@@ -46,13 +45,13 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://twitter.com/deinprofil" target="_blank">
+  <a href="https://twitter.com/devmaaxi" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="mailto:devtaventix@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://discord.com/users/taventix" target="_blank">
+  <a href="https://discord.com/users/devmaaxi" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </p>
